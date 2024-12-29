@@ -49,6 +49,32 @@ A comprehensive list of **top computer vision conferences** and **computer visio
 
 ---
 
+## Top Computer Vision Journals
+
+| Journal Name                                           | h5-Index | Publisher       |
+|--------------------------------------------------------|----------|-----------------|
+| [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 196      | IEEE            |
+| [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) | 150      | IEEE            |
+| [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | 149      | IEEE            |
+| [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) | 119      | Elsevier        |
+| [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) | 118      | Elsevier        |
+| [Journal of Machine Learning Research (JMLR)](http://www.jmlr.org/) | 117      | JMLR            |
+| [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263) | 97       | Springer        |
+| [Neural Networks](https://www.journals.elsevier.com/neural-networks) | 95       | Elsevier        |
+| [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters) | 87       | Elsevier        |
+| [Journal of Visual Communication and Image Representation](https://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation) | 52       | Elsevier        |
+| [Computer Vision and Image Understanding (CVIU)](https://www.journals.elsevier.com/computer-vision-and-image-understanding) | 48       | Elsevier        |
+| [Image and Vision Computing (IVC)](https://www.journals.elsevier.com/image-and-vision-computing) | 48       | Elsevier        |
+| [IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l) | 117      | IEEE            |
+| [IEEE Transactions on Robotics (T-RO)](https://www.ieee-ras.org/publications/t-ro) | 83       | IEEE            |
+
+**Disclaimer**: 
+
+The journals **[IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l)** and **[IEEE Transactions on Robotics (T-RO)](https://www.ieee-ras.org/publications/t-ro)** are primarily focused on robotics and automation research. However, they are included in this list due to their strong relevance to computer vision, particularly in applications such as robotic perception, visual navigation, SLAM (Simultaneous Localization and Mapping), and vision-based manipulation tasks. Researchers working at the intersection of computer vision and robotics may find these journals highly suitable for their work.
+
+
+---
+
 
 ## Contribution
 
